@@ -5,6 +5,12 @@ from collections import deque
 GS 2026 - OrbitClean: Sistema de Inteligência Orbital
 Algoritmos: Busca em Largura (BFS) e Fila de Prioridade (Heapq)
 Estruturas: Grafo de Adjacência e Fila FIFO (Deque)
+
+Integrantes:
+- Gabriel Silva Novais RM566370
+- Kathleen Claire Spencer Lourenço RM561571
+- Marcielle Janguas Pina Carvalho RM561505
+- Marcos Vinicius Aquino Prado RM562775
 """
 
 # Detritos -> detrito = (periculosidade, setor)
